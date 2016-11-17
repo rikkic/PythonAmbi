@@ -1,0 +1,1 @@
+C:\Python27\python.exe "C:\Users\Rikki\PycharmProjects\Ambilight\ambi.py"
